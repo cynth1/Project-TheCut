@@ -12,6 +12,8 @@ text-align: center;
   justify-content: space-around;
   text-transform: uppercase;
   max-width: 320px;
+  padding-bottom: 25px;
+  padding-top: 25px;
 
 
 }
@@ -47,9 +49,16 @@ text-align: center;
 
 
 .background-purple {
-  background-color: #BBA0B2
+  background-color: #9D858D;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+
 }
 
 .background-stone {
-  background-color: #B39EB5
+  background-color: #B39EB5;
+  padding-left: 30px;
+  padding-right: 30px;
 }
