@@ -1,4 +1,8 @@
 .calendar {
   margin: auto;
-  width: 70%
+  width: 59%
+}
+
+.col-md-4 {
+padding-bottom: 20px;
 }
