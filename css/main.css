@@ -2,15 +2,18 @@
 font-size: 75px;
 font-family: Garamond;
 font-weight: bold;
-text-indent: 290px;
+text-align: center;
 }
 
 .topnav {
-  margin: 20px 480px 80px 480px;
+  margin: auto;
   padding: 0;
   display: flex;
   justify-content: space-around;
   text-transform: uppercase;
+  max-width: 320px;
+
+
 }
 
 
