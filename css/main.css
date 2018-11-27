@@ -1,6 +1,13 @@
 .intro {
-font-size: 70px;
+font-size: 75px;
 font-family: Garamond;
 font-weight: bold;
 text-indent: 290px;
+}
+
+.topnav {
+  margin: 20px 480px 100px 480px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
 }
