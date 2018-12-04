@@ -23,14 +23,6 @@ font-family: futura;
 
 }
 
-.eventsinlondon {
-  text-align: center;
-  font-family: futura;
-  color: #B39EB5;
-}
-
-}
-
 .logo {
   position:absolute;
   padding-bottom: 10px;
@@ -38,12 +30,11 @@ font-family: futura;
   padding-left: 122px;
 }
 
-.login {
-  position:absolute;
-  padding-bottom: 0px;
-  margin-top: 30px;
+.eventsinlondon {
+  text-align: center;
+  font-family: futura;
+  color: #B39EB5;
 }
-
 
 .social-footer {
   padding: 1rem;
@@ -76,7 +67,8 @@ font-family: futura;
 
 
 .background-purple {
-  background-color: #9D858D;
+  background-color: #FA7053;
+  opacity: 80%;
   margin-left: 10%;
   padding-left: 30px;
   padding-right: 30px;
@@ -86,7 +78,7 @@ font-family: futura;
 }
 
 .background-stone {
-  background-color: #B39EB5;
+  background-color: #FA7053;
   padding-left: 30px;
   padding-right: 30px;
   font-family: futura;
@@ -103,4 +95,10 @@ font-family: futura;
 .content {
 margin-left: 3%;
 margin-right: 3%;
+}
+
+.rowcontent {
+  padding-top: 50px;
+  margin-left: 3%;
+  margin-right: 3%;
 }
