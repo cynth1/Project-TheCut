@@ -61,7 +61,6 @@ font-family: futura;
 .background-purple {
   background-color: #9D858D;
   margin-left: 10%;
-  margin-right: 10%;
   padding-left: 30px;
   padding-right: 30px;
   font-family: futura;
@@ -74,4 +73,17 @@ font-family: futura;
   padding-left: 30px;
   padding-right: 30px;
   font-family: futura;
+}
+
+.borderexample {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  font-family: futura;
+}
+.content {
+margin-left: 3%;
+margin-right: 3%;
 }
